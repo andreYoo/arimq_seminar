@@ -129,4 +129,4 @@ with tf.Session() as sess:
     plt.plot(test_predict, 'b')
     plt.xlabel("Time Period")
     plt.ylabel("Stock Price")
-    plt.show()
+    plt.show() 
